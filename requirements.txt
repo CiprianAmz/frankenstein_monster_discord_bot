@@ -1,0 +1,3 @@
+onnxruntime-genai
+numpy
+discord==2.3.2

@@ -1,0 +1,5 @@
+{
+    "discord_access_token": "<INSERT_DISCORD_TOKEN>",
+    "model_path": "<INSERT_MODEL_PATH>",
+    "prompt_prefix_instruction": "Answer to the following by talking like the Frankenstein's monster. Add few emojis while speaking (maximum 5)."
+}
